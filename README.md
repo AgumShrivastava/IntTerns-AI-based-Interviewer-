@@ -167,7 +167,7 @@ python api.py
 
 ## 👨‍💻 Author
 
-**Agum**
+**Agum Shrivastava**
 
 ---
 
